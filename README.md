@@ -4,8 +4,8 @@
 
 Dengan anggota kelompok:
 
-[Fransiska Citra Mariana](https://github.com/fcitra)
-[Zoraidha Aulia](https://github.com/zoraulia)
-[Kartika Rizqi Nastiti](https://github.com/kartikarizqin)
+- [Fransiska Citra Mariana](https://github.com/fcitra)
+- [Zoraidha Aulia](https://github.com/zoraulia)
+- [Kartika Rizqi Nastiti](https://github.com/kartikarizqin)
 
 Project ini berhasil menembus [Top Eleven Team](https://www.instagram.com/p/CPhOM_sBZtQ/)
